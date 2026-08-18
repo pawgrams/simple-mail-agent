@@ -1,0 +1,22 @@
+RE: Request: Typescript Dev (Very Urgent)
+---
+
+Hello Cimon,
+
+I must say, I am not satisfied at all with Ezekiel.
+
+You promised, he is an exprienced TS Dev. However, his colleagues told me, he can not even
+handle a simple async promise-all. So unfortunately I had to send him home today noon.
+
+This has been the first disappointing guy you've send
+since our initial booking. And I'd be more than glad if it was the last time.
+
+Please, just send me someone else ASAP!
+No time for big introductions right now. 
+Just send someone I can rely on and who can start right over.
+
+You know how urgent this sprint is to us.
+Our next funding depends on this milestone.
+
+Regards,
+Nathan

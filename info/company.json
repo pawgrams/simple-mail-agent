@@ -1,0 +1,66 @@
+{
+    "name": "cimPawTest GmbH",
+    "street": "Kratzpfoten 4",
+    "zip": "12345",
+    "city": "Katzenburg",
+    "country": "Deutschland",
+    "vat_id": "DE123456789",
+    "website_url": "https://cimpawtest.de",
+    "phone": "+49 (0) 123 456 789",
+    "logo": "https://iili.io/KZca9GR.md.png",
+    "business": {
+        "core_buisness": [
+            "HR in the IT and technology sectors",
+            "recruiting programmers, devops, software architects"
+        ],
+        "target_clients": [
+            "tech companies",
+            "consultaning companies",
+            "government",
+            "mid-to-large size companies with demand for IT staff"
+        ],
+        "target_regions": [
+            "de",
+            "ch",
+            "at",
+            "nl",
+            "fr",
+            "uk",
+            "es",
+            "pl",
+            "pt",
+            "dn",
+            "se",
+            "nw",
+            "us",
+            "au",
+            "ca",
+            "it",
+            "gr",
+            "cz",
+            "be",
+            "lx"
+        ],
+        "contract_models": [
+            "one time payment upon successful hiring",
+            "subscription-tiers"
+        ],
+        "portfolio": [
+            "frontend developers",
+            "backend developers",
+            "full stack developers",
+            "devops",
+            "software architects",
+            "software testers",
+            "ui/ux designers",
+            "tech product owners",
+            "IT project managers",
+            "cloud engineers",
+            "prompt engineers",
+            "data analysts",
+            "data scientists",
+            "it consultants",
+            "custom requests for specific IT staff and related discplines"
+        ]
+    }
+}

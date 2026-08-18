@@ -1,0 +1,30 @@
+Request: Expand our Developer Team
+---
+
+Dear Sirs or Madams,
+
+my Name is John Smith, CEO of Spark Tech LLC.
+We are a young start up and build an Agentic AI Plattform for 3D Motion.
+
+After having successfully finished our first private funding round,
+we are now looking forward to expand our team size.
+
+Our current vacancies:
+- 2 Frontend Developers (React Native, Tailwind, 3y+ experience)
+- 1 UI/UX Designer (Figma, CSS, 3y+ experience + references)
+- 1 Senior Data Scientist (PyTorch, SentencePiece, JAX, CUDA, C++, 5y+ experience)
+- 1 Junior Data Scientist (Solid with Python & Statistics + Creative Talent, 1y+ experience)
+
+Remote work is welcome.
+Senior Data Scientist must be willing to travel.
+
+We are looking forward to arrange a video call with you,
+optimally combined with a first briefing.
+
+If you have any questions, please feel free to ask.
+
+Kind Regards,
+John
+
+
+

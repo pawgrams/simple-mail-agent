@@ -30,7 +30,7 @@ def search_vec(path: str, context: str, top_k: int = 3):                        
     return " ... ".join([d.page_content for d in data])                             # kombiniere ergebnisse als string
 
 #---------------------------------------------------------------------------------
-# HINWEISE: ...
+# HINWEISE:
 #---------------------------------------------------------------------------------
 # ZU FAISS (pickle files und allow_dangerous_deserialization)
 # Vektorisiert man nur eigene Dateien, dann kein Risiko
